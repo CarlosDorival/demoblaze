@@ -1,5 +1,5 @@
 # demoblaze
-resolucion of challenge automation web
+resolution of challenge automation web
 # notes
 
 -  for execute the test for first time in cypress use on terminal of visual code:
